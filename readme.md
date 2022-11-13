@@ -1,5 +1,1 @@
-#hi
-#hello
-#hola clown 
-#heelo worldg
-#fhei
+Welcome to my content aggregator project.
